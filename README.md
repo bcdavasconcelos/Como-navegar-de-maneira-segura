@@ -1,5 +1,5 @@
 # Segurança digital
-Algumas recomendações de segurança
+*Algumas recomendações de segurança para desavisados em uma era digital.*
 
 ## Para quem usa OSX.
 
