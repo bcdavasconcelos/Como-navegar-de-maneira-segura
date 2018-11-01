@@ -1,6 +1,3 @@
-# Segurança digital
-*Algumas recomendações de segurança para desavisados em uma era digital.*
-
 ## Para quem usa OSX.
 
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) (porém disponível no [Appked](http://www.macbed.com)): monitora todas as conexões de entrada e saída do seu computador, alertando sobre os riscos e dando a opção de bloqueá-la. *Você ficará surpreso em constatar quantos aplicativos solicitam conexões com o google analytics e outros servidores não-relacionados à sua função.*
@@ -23,3 +20,9 @@
 * Ao comprar pela internet, use sempre a função 'gerar cartão virtual' do aplicativo do seu banco. 
 
 * Não acesse sua conta no banco pelo computador. A maior parte dos bancos brasileiros exigem que seja instalado no computador um plugin de segurança chamado **[Warsaw](https://www.colunatech.com.br/gas-tecnologia-warsaw-como-remover-4486/)** e que é um verdadeiro pesadelo. Além de deixar a computador extremamente lento, não é possível saber quais tipos de informações ele está coletando e enviando.
+
+## Outras referências
+* [Guia dos paranóicos de segurança em tempos digitais](https://lond.com.br/2018/10/29/o-guia-paranóico-de-segurança-em-tempos-digitais.html)
+* [Um manual de segurança digital para tempos sombrios](https://medium.com/revista-subjetiva/um-manual-de-segurança-digital-para-tempos-sombrios-2d414d0a3f24)
+* [Vedeta](https://vedetas.org/#oquee) é servidor dedicado a grupos feministas.
+* [DuckDuckGo Blog](https://spreadprivacy.com)
