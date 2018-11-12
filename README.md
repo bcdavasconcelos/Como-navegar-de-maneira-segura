@@ -1,11 +1,9 @@
 > Última atualização: 12 de Novembro de 2018
 
 ## Todas plataformas
+* O [Tor Browser][6] é talvez o navegador mais seguro disponível. Como no caso dos VPNs, o Tor possui uma rede própria. Ao abrir o browser, ele imediatamente roteia a sua conexão e oculta a sua localização original. Além disso, o próprio navegador oferece várias outras dicas de segurança e a possibilidade de aumentar ou reduzir o rigor das proteções. (Uma conexão completamente segura possivelmente excluiria o uso do flash e do java, o que pode ser desejável ou não dependendo do seu interesse no momento). Outra vantagem do Tor é a possibilidade de acessar sites bloqueados em determinados países. (*No caso do Tor não ser satisfatório, recomendo o [Firefox][7] como alternativa.*)
+
 * Dizem que o [VPN][5] é a camisinha da internet. Ele reduz um pouco a velocidade da conexão, mas protege a sua privacidade. Isso é possível graças a um sistema de redirecionamento da conexão que oculta o seu IP original e a origem da conexão. É recomendável buscar um serviço pago e de confiança. VPNs gratuitos são úteis apenas para assistir a Netflix roteando a partir de um outro país, mas não para garantir a sua segurança. 
-
-* O [Tor Browser][6] é talvez o navegador mais seguro disponível. Como no caso dos VPNs, o Tor possui uma rede própria. Ao abrir o browser, ele imediatamente roteia a sua conexão e oculta a sua localização original. Além disso, o próprio navegador oferece várias outras dicas de segurança e a possibilidade de aumentar ou reduzir o rigor das proteções. (Uma conexão completamente segura possivelmente excluiria o uso do flash e do java, o que pode ser desejável ou não dependendo do seu interesse no momento). Outra vantagem do Tor é a possibilidade de acessar sites bloqueados em determinados países.
-
-* No caso do Tor não ser satisfatório, recomendo o [Firefox][7] como alternativa.
 
 * Mecanismos de busca são empresas de anúncio disfarçadas. Enquanto você navega, seus dados são coletados, manipulados e utilizados para vender anúncios (mais caros para empresas, por serem segmentados, e mais específicos para você). Não bastasse isso, a quantidade de dados coletados por empresas como o Google é simplesmente monstruosa. Por ignorância entregamos de bandeja todo tipo de informação sobre nossas vidas que alimentam um enorme banco de dados e colocam um poder monumental nas mãos de uma empresa privada norte-americana<sup>[1](#ˆ1)</sup>. Não se trata de você especificamente ser monitorado ou não. Trata-se de todos nós sermos e de como isso representa um enorme perigo potencial. Existem alguns mecanismos que se abstém dessa prática e que por isso são altamente recomendados: [Searx][8] e [DuckDuckGo][9].
 
@@ -39,14 +37,14 @@
 * [Vedeta][30] é servidor dedicado a grupos feministas.
 * [DuckDuckGo Blog][31]
 
-<a name="ˆ3">3</a>: Quem desejar experimentar o software antes de adquiri-lo pode encontrá-lo no [Appked][2].
-
-<a name="ˆ4">4</a>: Nos celulares [a situação não é muito diferente.][3]
-
 <a name="ˆ1">1</a>: Por esse motivo não recomendo a utilização do Google Chrome.
 
 <a name="ˆ2">2</a>:: No OSX, procure por ele no Launchpad. 
 	No Windows, basta pressionar o glorioso comando crlt + alt + del.
+
+<a name="ˆ3">3</a>: Quem desejar experimentar o software antes de adquiri-lo pode encontrá-lo no [Appked][2].
+
+<a name="ˆ4">4</a>: Nos celulares [a situação não é muito diferente.][3]
 
 [1]:	https://www.obdev.at/products/littlesnitch/index.html
 [2]:	http://www.macbed.com
