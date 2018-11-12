@@ -1,6 +1,6 @@
 ## Apenas OSX
 
-* [Little Snitch][1] é um software pago<sup>[1](#ˆ1)</sup> que monitora todas as conexões de entrada e saída. As conexões são bloqueadas até que o usuário decida se deseja ou não permiti-la. (É surpreendente o número de aplicativos e programas que solicitam conexão com servidores para rastreamento e coleta de dados do usuário, como o *Google Analytics* por exemplo<sup>[2](#ˆ2)</sup>). **Altamente recomendado.**
+* [Little Snitch][1] é um software pago<sup>[1](#ˆ1)</sup> que monitora todas as conexões de entrada e saída. As conexões são bloqueadas até que o usuário decida se deseja ou não permiti-la. (É surpreendente o número de aplicativos e programas que solicitam conexão com servidores para rastreamento e coleta de dados do usuário, como o *Google Analytics* por exemplo<sup>[2](#ˆ2)</sup>. **Altamente recomendado.**
 
 * [Micro Snitch][4] é o irmão mais novo do Little Snitch, feito para monitorar o status do microfone do computador. Sempre que o microfone fica ativo, ele emite um alerta.
 
@@ -9,7 +9,7 @@
 
 * O [Tor Browser][6] é talvez o navegador mais seguro disponível. Como no caso dos VPNs, o Tor possui uma rede própria. Ao abrir o browser, ele imediatamente roteia a sua conexão e oculta a sua localização original. Além disso, o próprio navegador oferece várias outras dicas de segurança e a possibilidade de aumentar ou reduzir o rigor das proteções. (Uma conexão completamente segura possivelmente excluiria o uso do flash e do java, o que pode ser desejável ou não dependendo do seu interesse no momento). Outra vantagem do Tor é a possibilidade de acessar sites bloqueados em determinados países.
 
-* No caso do Tor não ser satisfatório, recomendo o[Firefox][7]como alternativa.
+* No caso do Tor não ser satisfatório, recomendo o [Firefox][7]como alternativa.
 
 * Mecanismos de busca são empresas de anúncio disfarçadas. Enquanto você navega, seus dados são coletados, manipulados e utilizados para vender anúncios (mais caros para empresas, por serem segmentados, e mais específicos para você). Não bastasse isso, a quantidade de dados coletados por empresas como o Google é simplesmente monstruosa. Por ignorância entregamos de bandeja todo tipo de informação sobre nossas vidas que alimentam um enorme banco de dados e colocam um poder monumental nas mãos de uma empresa privada norte-americana<sup>[3](#ˆ3)</sup>. Não se trata de você especificamente ser monitorado ou não. Trata-se de todos nós sermos e de como isso representa um enorme perigo potencial. Existem alguns mecanismos que se abstém dessa prática e que por isso são altamente recomendados: [Searx][8] e [DuckDuckGo][9].
 
