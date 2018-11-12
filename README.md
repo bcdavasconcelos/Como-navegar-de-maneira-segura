@@ -1,6 +1,6 @@
 ## Apenas OSX
 
-* [Little Snitch][1] é um software pago[^1] que monitora todas as conexões de entrada e saída. As conexões são bloqueadas até que o usuário decida se deseja ou não permiti-la. (É surpreendente o número de aplicativos e programas que solicitam conexão com servidores para rastreamento e coleta de dados do usuário, como o *Google Analytics* por exemplo[^2]). **Altamente recomendado.**
+* [Little Snitch][1] é um software pago<sup>[1](#ˆ1)</sup> que monitora todas as conexões de entrada e saída. As conexões são bloqueadas até que o usuário decida se deseja ou não permiti-la. (É surpreendente o número de aplicativos e programas que solicitam conexão com servidores para rastreamento e coleta de dados do usuário, como o *Google Analytics* por exemplo[^2]). **Altamente recomendado.**
 
 * [Micro Snitch][4] é o irmão mais novo do Little Snitch, feito para monitorar o status do microfone do computador. Sempre que o microfone fica ativo, ele emite um alerta.
 
@@ -37,7 +37,7 @@
 * [Vedeta][30] é servidor dedicado a grupos feministas.
 * [DuckDuckGo Blog][31]
 
-[^1]: Quem desejar experimentar o software antes de adquiri-lo pode encontrá-lo no [Appked][2].
+<a name="ˆ1">1</a>: Quem desejar experimentar o software antes de adquiri-lo pode encontrá-lo no [Appked][2].
 
 [^2]: Nos celulares [a situação não é muito diferente.][3]
 
