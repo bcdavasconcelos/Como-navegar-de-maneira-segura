@@ -39,11 +39,11 @@
 
 <a name="ˆ1">1</a>: Quem desejar experimentar o software antes de adquiri-lo pode encontrá-lo no [Appked][2].
 
-<sup>[1](#^2)</sup>: Nos celulares [a situação não é muito diferente.][3]
+<sup>[2](#^2)</sup>: Nos celulares [a situação não é muito diferente.][3]
 
-<sup>[1](#^3)</sup>: Por esse motivo não recomendo a utilização do Google Chrome.
+<sup>[3](#^3)</sup>: Por esse motivo não recomendo a utilização do Google Chrome.
 
-<sup>[1](#^4)</sup>: No OSX, procure por ele no Launchpad. 
+<sup>[4](#^4)</sup>: No OSX, procure por ele no Launchpad. 
 	No Windows, basta pressionar o glorioso comando crlt + alt + del.
 
 [1]:	https://www.obdev.at/products/littlesnitch/index.html
