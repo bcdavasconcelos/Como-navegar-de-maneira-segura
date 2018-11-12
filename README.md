@@ -9,7 +9,7 @@
 
 * O [Tor Browser][6] é talvez o navegador mais seguro disponível. Como no caso dos VPNs, o Tor possui uma rede própria. Ao abrir o browser, ele imediatamente roteia a sua conexão e oculta a sua localização original. Além disso, o próprio navegador oferece várias outras dicas de segurança e a possibilidade de aumentar ou reduzir o rigor das proteções. (Uma conexão completamente segura possivelmente excluiria o uso do flash e do java, o que pode ser desejável ou não dependendo do seu interesse no momento). Outra vantagem do Tor é a possibilidade de acessar sites bloqueados em determinados países.
 
-* No caso do Tor não ser satisfatório, recomendo o [Firefox][7]como alternativa.
+* No caso do Tor não ser satisfatório, recomendo o [Firefox][7] como alternativa.
 
 * Mecanismos de busca são empresas de anúncio disfarçadas. Enquanto você navega, seus dados são coletados, manipulados e utilizados para vender anúncios (mais caros para empresas, por serem segmentados, e mais específicos para você). Não bastasse isso, a quantidade de dados coletados por empresas como o Google é simplesmente monstruosa. Por ignorância entregamos de bandeja todo tipo de informação sobre nossas vidas que alimentam um enorme banco de dados e colocam um poder monumental nas mãos de uma empresa privada norte-americana<sup>[3](#ˆ3)</sup>. Não se trata de você especificamente ser monitorado ou não. Trata-se de todos nós sermos e de como isso representa um enorme perigo potencial. Existem alguns mecanismos que se abstém dessa prática e que por isso são altamente recomendados: [Searx][8] e [DuckDuckGo][9].
 
@@ -17,7 +17,7 @@
 
 * Ao baixar um aplicativo da internet, jamais se esqueça de verificar o tamanho do arquivo e ponderar se condiz com aquilo que seria esperado para um aplicativo desse tipo. Em diversos sites, até que você consiga baixar o que deseja, provavelmente irá receber falsos arquivos de instalação com um tamanho muito menor do que o esperado. Logo, se estiver tentando baixar um processador de texto e encontrar um arquivo de 250kb na sua pasta de downloads, saberá que se trata de uma fraude e uma ameaça em potência.
 
-* Seja cuidadoso com seus dados. Evite fornecer sua conta de email principal em qualquer site que exigir um cadastro. Você pode ter uma conta alternativa, que verifica com pouca frequência, apenas para ou então utilizar um serviço de email temporário (e.g. [Temp-Mail][12] ou [Mohama][13]). 
+* Seja cuidadoso com seus dados. Evite fornecer sua conta de email principal em qualquer site que exigir um cadastro. Você pode ter uma conta alternativa, que verifica com pouca frequência, apenas isso (e.g. eu tenho uma chamada caixadespam [at] gmail [ponto] com) ou então utilizar um serviço de email temporário (e.g. [Temp-Mail][12] ou [Mohama][13]). 
 
 * Se for fazer uma compra na internet, verifique se o site parece legítimo, se há referência ao site em mecanismos de busca e se não existem reclamações sobre ele. Sempre utilize a função ‘gerar cartão virtual’ no aplicativo do seu banco para evitar compartilhar o número do seu cartão físico. Caso o seu banco não disponibilize esse serviço, recomendo o [NuBank][14]. Trata-se um serviço de cartão de crédito muito seguro, sem tarifas e com o melhor aplicativo disponível.  
 
