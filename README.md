@@ -1,3 +1,5 @@
+> Última atualização: 12 de Novembro de 2018
+
 ## Apenas OSX
 
 * [Little Snitch][1] é um software pago<sup>[1](#ˆ1)</sup> que monitora todas as conexões de entrada e saída. As conexões são bloqueadas até que o usuário decida se deseja ou não permiti-la. (É surpreendente o número de aplicativos e programas que solicitam conexão com servidores para rastreamento e coleta de dados do usuário, como o *Google Analytics* por exemplo<sup>[2](#ˆ2)</sup>. **Altamente recomendado.**
