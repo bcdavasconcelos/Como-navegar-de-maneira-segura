@@ -1,6 +1,6 @@
 ## Apenas OSX
 
-* [Little Snitch][1] é um software pago<sup>[1](#ˆ1)</sup> que monitora todas as conexões de entrada e saída. As conexões são bloqueadas até que o usuário decida se deseja ou não permiti-la. (É surpreendente o número de aplicativos e programas que solicitam conexão com servidores para rastreamento e coleta de dados do usuário, como o *Google Analytics* por exemplo[^2]). **Altamente recomendado.**
+* [Little Snitch][1] é um software pago<sup>[1](#ˆ1)</sup> que monitora todas as conexões de entrada e saída. As conexões são bloqueadas até que o usuário decida se deseja ou não permiti-la. (É surpreendente o número de aplicativos e programas que solicitam conexão com servidores para rastreamento e coleta de dados do usuário, como o *Google Analytics* por exemplo<sup>[2](#ˆ2)</sup>). **Altamente recomendado.**
 
 * [Micro Snitch][4] é o irmão mais novo do Little Snitch, feito para monitorar o status do microfone do computador. Sempre que o microfone fica ativo, ele emite um alerta.
 
@@ -11,7 +11,7 @@
 
 * No caso do Tor não ser satisfatório, recomendo o[Firefox][7]como alternativa.
 
-* Mecanismos de busca são empresas de anúncio disfarçadas. Enquanto você navega, seus dados são coletados, manipulados e utilizados para vender anúncios (mais caros para empresas, por serem segmentados, e mais específicos para você). Não bastasse isso, a quantidade de dados coletados por empresas como o Google é simplesmente monstruosa. Por ignorância entregamos de bandeja todo tipo de informação sobre nossas vidas que alimentam um enorme banco de dados e colocam um poder monumental nas mãos de uma empresa privada norte-americana[^3]. Não se trata de você especificamente ser monitorado ou não. Trata-se de todos nós sermos e de como isso representa um enorme perigo potencial. Existem alguns mecanismos que se abstém dessa prática e que por isso são altamente recomendados: [Searx][8] e [DuckDuckGo][9].
+* Mecanismos de busca são empresas de anúncio disfarçadas. Enquanto você navega, seus dados são coletados, manipulados e utilizados para vender anúncios (mais caros para empresas, por serem segmentados, e mais específicos para você). Não bastasse isso, a quantidade de dados coletados por empresas como o Google é simplesmente monstruosa. Por ignorância entregamos de bandeja todo tipo de informação sobre nossas vidas que alimentam um enorme banco de dados e colocam um poder monumental nas mãos de uma empresa privada norte-americana<sup>[3](#ˆ3)</sup>. Não se trata de você especificamente ser monitorado ou não. Trata-se de todos nós sermos e de como isso representa um enorme perigo potencial. Existem alguns mecanismos que se abstém dessa prática e que por isso são altamente recomendados: [Searx][8] e [DuckDuckGo][9].
 
 * Navegando na internet, você frequentemente irá lidar com janelas de [pop-up][10]. Hoje em dia muitas delas são feitas para te enganar: elas se assemelham a algum aviso ou advertência do próprio computador para te levar a clicar e instalar inadvertidamente um software malicioso. Ao navegar, sempre que surgir uma mensagem de erro, confira se não se trata de um pop-up. Além disso, é altamente recomendado instalar algum tipo de Ad-Blocker no seu navegador (e.g. [AdBlock Plus][11] para o firefox).
 
@@ -23,7 +23,7 @@
 
 * Não utilize a mesma senha em todos os serviços, nem utilize nomes de pessoas, datas relevantes ou qualquer coisa remotamente conectada à sua vida pessoal. O mais seguro é utilizar um gerador de senhas e mantê-las todas seguras em um cofre digital como o [1Password][15] ou serviço semelhante. Se precisar gerar uma senha por conta própria, confira [esse artigo][16] do [Intercept Brasil][17] sobre como gerar uma senha segura.
 
-* Se puder evitar, não acesse sua conta bancária pelo computador. Além de ser uma questão de segurança, a maior parte dos bancos exige a instalação de [um plugin de segurança muito suspeito][18] que causa extrema lentidão. Para saber se você tem o plugin instalado e rodando, procure por **[Warsaw][19]** no monitor de atividades do seu sistema operacional[^4]. Para remover o plugin [siga as instruções][20].
+* Se puder evitar, não acesse sua conta bancária pelo computador. Além de ser uma questão de segurança, a maior parte dos bancos exige a instalação de [um plugin de segurança muito suspeito][18] que causa extrema lentidão. Para saber se você tem o plugin instalado e rodando, procure por **[Warsaw][19]** no monitor de atividades do seu sistema operacional<sup>[4](#ˆ4)</sup>. Para remover o plugin [siga as instruções][20].
 
 * Se você é como qualquer pessoa normal que jamais perderia uma manhã lendo os termos de serviço de um software ou serviço qualquer, recomendo conferir [TOSDR (Terms of Service Didn’t Read)][21] que classifica de maneira didática os termos de serviço de inúmeras empresas como o Youtube, Facebook, Wikipedia, Instagram, Github, *etc*.
 
@@ -39,11 +39,11 @@
 
 <a name="ˆ1">1</a>: Quem desejar experimentar o software antes de adquiri-lo pode encontrá-lo no [Appked][2].
 
-[^2]: Nos celulares [a situação não é muito diferente.][3]
+<sup>[1](#^2)</sup>: Nos celulares [a situação não é muito diferente.][3]
 
-[^3]: Por esse motivo não recomendo a utilização do Google Chrome.
+<sup>[1](#^3)</sup>: Por esse motivo não recomendo a utilização do Google Chrome.
 
-[^4]: No OSX, procure por ele no Launchpad. 
+<sup>[1](#^4)</sup>: No OSX, procure por ele no Launchpad. 
 	No Windows, basta pressionar o glorioso comando crlt + alt + del.
 
 [1]:	https://www.obdev.at/products/littlesnitch/index.html
